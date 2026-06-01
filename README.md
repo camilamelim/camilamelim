@@ -2,9 +2,13 @@
 **`Desenvolvedora FullStack`**
 
 🎓 Tenho 20 anos e sou formada no ensino médio técnico em Química pela ETEC.
+
 💻 Atualmente, curso Sistemas de Informação na Unoeste, com foco em desenvolvimento e tecnologia.
+
 🚀 Tenho interesse em suporte técnico, resolução de problemas e desenvolvimento de sistemas, áreas nas quais venho me aprofundando tanto na faculdade quanto em projetos práticos.
+
 🛠️ Gosto de aprender na prática, trabalhar em equipe e enfrentar desafios que envolvam lógica e tecnologia.
+
 📚 Estou constantemente buscando evoluir meus conhecimentos e adquirir experiência na área de TI.
 
 <p align="left">
