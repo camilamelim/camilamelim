@@ -3,7 +3,7 @@
 
 🎓 Tenho 20 anos e formação técnica em Química pela ETEC.
 
-💻 Atualmente, curso Sistemas de Informação na Unoeste, com foco em desenvolvimento de sistemas e tecnologia da informação.
+💻 Atualmente, curso Sistemas de Informação na Unoeste.
 
 🚀 Possuo experiência prática com suporte técnico, lidando diretamente com usuários, identificação e resolução de problemas, além de vivência com sistemas utilizados no dia a dia empresarial.
 
