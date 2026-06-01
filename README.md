@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Camila Melim
 **`Desenvolvedora FullStack | Suporte de TI`**
 
-🎓 Tenho 20 anos e formação técnica em Química pela ETEC, o que me proporcionou uma base sólida em raciocínio lógico, análise e resolução de problemas.
+🎓 Tenho 20 anos e formação técnica em Química pela ETEC.
 
 💻 Atualmente, curso Sistemas de Informação na Unoeste, com foco em desenvolvimento de sistemas e tecnologia da informação.
 
