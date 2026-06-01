@@ -28,6 +28,14 @@
             src="https://custom-icon-badges.demolab.com/github/followers/camilamelim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    </a>
+    <a href="https://www.linkedin.com/in/camila-melim">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
