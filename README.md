@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Camila Melim, tenho 20 anos. Concluí o ensino médio na ETEC, com o curso técnico em química. Atualmente, estou cursando Sistemas de Informação na Unoeste.
+Me chamo Camila Melim, tenho 20 anos. Concluí o ensino médio na ETEC, com o curso técnico em química. Atualmente, estou cursando Sistemas de Informação na Unoeste.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
