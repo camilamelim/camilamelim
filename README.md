@@ -2,10 +2,15 @@
 **`Desenvolvedora FullStack | Suporte de TI`**
 
 🎓 Tenho 20 anos e formação técnica em Química pela ETEC, o que me proporcionou uma base sólida em raciocínio lógico, análise e resolução de problemas.
+
 💻 Atualmente, curso Sistemas de Informação na Unoeste, com foco em desenvolvimento de sistemas e tecnologia da informação.
+
 🚀 Possuo experiência prática com suporte técnico, lidando diretamente com usuários, identificação e resolução de problemas, além de vivência com sistemas utilizados no dia a dia empresarial.
+
 🛠️ Já atuei em projetos desde a concepção até a implementação, trabalhando em equipe, desenvolvendo soluções e aplicando lógica de programação na prática. Tenho familiaridade com desenvolvimento utilizando C, Python, JavaScript, além de tecnologias web como HTML e CSS.
+
 🔍 Tenho facilidade em aprendizado rápido, pensamento analítico e resolução de problemas, características que aplico tanto em desenvolvimento quanto em suporte técnico.
+
 📚 Estou em constante evolução, buscando aprimorar meus conhecimentos e crescer profissionalmente na área de TI, com interesse em desenvolvimento e suporte.
 
 <p align="left">
