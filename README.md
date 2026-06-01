@@ -1,7 +1,11 @@
 # 👩🏻‍💻 Camila Melim
 **`Desenvolvedora FullStack`**
 
-Me chamo Camila Melim, tenho 20 anos. Concluí o ensino médio na ETEC com o curso técnico em Química. Atualmente, estou cursando Sistemas de Informação na Unoeste e me aprofundando no desenvolvimento web fullstack.
+🎓 Tenho 20 anos e sou formada no ensino médio técnico em Química pela ETEC.
+💻 Atualmente, curso Sistemas de Informação na Unoeste, com foco em desenvolvimento e tecnologia.
+🚀 Tenho interesse em suporte técnico, resolução de problemas e desenvolvimento de sistemas, áreas nas quais venho me aprofundando tanto na faculdade quanto em projetos práticos.
+🛠️ Gosto de aprender na prática, trabalhar em equipe e enfrentar desafios que envolvam lógica e tecnologia.
+📚 Estou constantemente buscando evoluir meus conhecimentos e adquirir experiência na área de TI.
 
 <p align="left">
     <a href="https://github.com/camilamelim?tab=repositories&sort=stargazers">
@@ -29,8 +33,6 @@ Me chamo Camila Melim, tenho 20 anos. Concluí o ensino médio na ETEC com o cur
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
 <br/><br/>
 
