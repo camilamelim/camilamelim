@@ -1,15 +1,12 @@
 # 👩🏻‍💻 Camila Melim
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora FullStack | Suporte de TI`**
 
-🎓 Tenho 20 anos e sou formada no ensino médio técnico em Química pela ETEC.
-
-💻 Atualmente, curso Sistemas de Informação na Unoeste, com foco em desenvolvimento e tecnologia.
-
-🚀 Tenho interesse em suporte técnico, resolução de problemas e desenvolvimento de sistemas, áreas nas quais venho me aprofundando tanto na faculdade quanto em projetos práticos.
-
-🛠️ Gosto de aprender na prática, trabalhar em equipe e enfrentar desafios que envolvam lógica e tecnologia.
-
-📚 Estou constantemente buscando evoluir meus conhecimentos e adquirir experiência na área de TI.
+🎓 Tenho 20 anos e formação técnica em Química pela ETEC, o que me proporcionou uma base sólida em raciocínio lógico, análise e resolução de problemas.
+💻 Atualmente, curso Sistemas de Informação na Unoeste, com foco em desenvolvimento de sistemas e tecnologia da informação.
+🚀 Possuo experiência prática com suporte técnico, lidando diretamente com usuários, identificação e resolução de problemas, além de vivência com sistemas utilizados no dia a dia empresarial.
+🛠️ Já atuei em projetos desde a concepção até a implementação, trabalhando em equipe, desenvolvendo soluções e aplicando lógica de programação na prática. Tenho familiaridade com desenvolvimento utilizando C, Python, JavaScript, além de tecnologias web como HTML e CSS.
+🔍 Tenho facilidade em aprendizado rápido, pensamento analítico e resolução de problemas, características que aplico tanto em desenvolvimento quanto em suporte técnico.
+📚 Estou em constante evolução, buscando aprimorar meus conhecimentos e crescer profissionalmente na área de TI, com interesse em desenvolvimento e suporte.
 
 <p align="left">
     <a href="https://github.com/camilamelim?tab=repositories&sort=stargazers">
@@ -30,33 +27,13 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-
-<br/><br/>
-
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <br/><br/>
 
 ---
 
 ### 📊 Estatísticas
 
-<p>
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=camilamelim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-    <img 
-        alt="Linguagens mais usadas" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamelim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
-</p>
+<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=camilamelim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> <img alt="Linguagens mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamelim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> </p>
